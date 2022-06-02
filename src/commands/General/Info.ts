@@ -40,7 +40,7 @@ export default class Command extends BaseCommand {
             undefined,
             `『 ℤ𝔼ℝ𝕆 𝕋𝕎𝕆 』\n\n🔮 *Total Groups: ${
 				chats.length
-					}*\n\n📍 *Last Re-booted: ${uptime()}*\n\n *📍 Total Users: ${users}*\n\n💢  *Total Banned Users: ${uban}*\n\n\n  *©️ Synthesized Infinity Bots*\n\n`,
+					}*\n\n⏺ *Last Re-booted: ${uptime()}*\n\n *🚹 Total Users: ${users}*\n\n🚫  *Total Banned Users: ${uban}*\n\n\n  *©️ SHAFIQ SAWAND*\n\n`,
                     undefined
                 ).catch((reason: any) =>
             M.reply(`✖ An error occurred. Please try again later.`))	
