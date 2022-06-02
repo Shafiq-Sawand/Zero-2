@@ -1,6 +1,6 @@
 
 # **Zero Two BOT**
-#### **Advanced WhatsApp Bot With Rich Anime Features Designed by [SHAFIQ](https://github.com/FantoX001) and based on Chitoge, Void and Yotsuba Botto**
+#### **Advanced WhatsApp Bot With Rich Anime Features Designed by [SHAFIQ](https://www.facebook.com/AHMED.BALOCHH) and based on Chitoge, Void and Yotsuba Botto**
 
 
 ## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HyKDw8MfIb57abmJ8dSfXa) 
