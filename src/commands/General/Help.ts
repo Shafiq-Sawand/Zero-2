@@ -25,18 +25,12 @@ export default class Command extends BaseCommand {
         return void this.client.sendMessage(M.from, { url: zerotwo }, MessageType.video, {quoted:M.WAMessage,
             mimetype: Mimetype.gif,
             caption:`
-               📍 Zero Two Bot 📍
+               📍 Zero 2 Bot 📍
 
-Ⓞ Hello, *${M.sender.username}* i am *Zero Two Bot*, based on *Chitoge* and *Void*.
+Ⓞ Hello, *${M.sender.username}* i am *Zero 2 Bot*, based on *Chitoge* and *Void*.
 Ⓞ All of my commands are listed below darling. Type ${this.client.config.prefix}help <Command Name> to get info about any specific command. 
 Ⓞ Type ${this.client.config.prefix}support to get Zero Two support group link in your DM.
 Ⓞ Contact ${this.client.config.prefix}mods to to add me in your groups.
-
-
-
-	🍁 *Coding* 🍁
-
-⌬ ${this.client.config.prefix}github
 
 	🍁 *Educative Tools* 🍁
 
@@ -118,10 +112,6 @@ export default class Command extends BaseCommand {
 ⌬ ${this.client.config.prefix}remove
 ⌬ ${this.client.config.prefix}purge
 
-	🍁 *Nature* 🍁
-
-⌬ ${this.client.config.prefix}fox
-
 	🍁 *Utilities* 🍁
 
 ⌬ ${this.client.config.prefix}blur
@@ -158,10 +148,10 @@ export default class Command extends BaseCommand {
 ⌬ ${this.client.config.prefix}randomwallpaper
 
 
-  『 Zero Two 』
+  『 SAWAND 』
    Based on: Chitoge, Yotsuba and Void
-   Character theme designer: Fantox
-   ©️ Synthesized Infinity
+   Developer: SHAFIQ 
+   ©️ SRY PAKISTAN 🇵🇰 
 
 
 `}
