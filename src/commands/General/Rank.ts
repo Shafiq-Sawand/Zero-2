@@ -109,7 +109,7 @@ export default class Command extends BaseCommand {
 				} else if (exp < 900000) {
 					role = "Highest Level Demon Lord";
 				} else {
-					role = "📍 My Immortal Darling 📍";
+					role = "📍 My Sweet Darling 📍";
 				}
 
 		// eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -177,15 +177,15 @@ export default class Command extends BaseCommand {
 				} else if (exp < 700000) {
 					level = 30;
 				} else if (exp < 750000) {
-					level = 31;
+					level = 50;
 				} else if (exp < 800000) {
-					level = 32;
+					level = 55;
 				} else if (exp < 850000) {
-					level = 33;
+					level = 60;
 				} else if (exp < 900000) {
-					level = 34;
+					level = 75;
 				} else {
-					level = 35;
+					level = 100;
 				}
 		let required: number;
 				if (exp < 500) {
