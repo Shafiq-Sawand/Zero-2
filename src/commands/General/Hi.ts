@@ -27,7 +27,7 @@ export default class Command extends BaseCommand {
 			{
 				quoted: M.WAMessage,
 				mimetype: Mimetype.gif,
-				caption: `Hi, i am  *Zero Two*📍. A whatsapp bot re-designed by: *Fantox* and based on Chitoge and Void Botto. I don't have time for chit-chat Darling. Use command from *${this.client.config.prefix}help* list if you want me to do anything. \n`,
+				caption: `Hi, i am  *Zero 2*📍. A whatsapp bot designed by: *SHAFIQ* and based on Chitoge and Void Botto. I don't have time for chit-chat Darling. Use command from *${this.client.config.prefix}help* list if you want me to do anything. \n`,
 			}
 		);
 	};
