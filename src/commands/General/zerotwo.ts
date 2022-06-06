@@ -27,7 +27,7 @@ export default class Command extends BaseCommand {
 			{
 				quoted: M.WAMessage,
 				mimetype: Mimetype.gif,
-				caption: `📍 *Zero Two* 📍\n\n🍀 *Description: A WhatsApp Bot With advanced features developed and hosted by Fantox.*\n\n🌐 *Fantox's GitHub URL: https://github.com/FantoX001* \n\n  👾 *Zero Two's URL:https://github.com/FantoX001/Zero-Two* \n\n 📒  *Guide: https://github.com/FantoX001/Zero-Two-Guides* \n\n`,
+				caption: `📍 *Zero Two* 📍\n\n🍀 *Description: A WhatsApp Bot With advanced features developed and hosted by SHAFIQ.*\n\n🌐 *SHAFIQ's GitHub URL: https://github.com/Shafiq-Sawand* \n\n  👾 *Zero Two's URL:https://github.com/Shafiq-Sawand/Zero-2* \n\n 📒  *Facebook: https://www.facebook.com/AHMED.BALOCHH* \n\n`,
 			}
 		);
 	};
